@@ -30,7 +30,9 @@ const HeroSection = () => {
                         className="text-yellow-50"
                     />
                 </div>
-                <div className="bg-blue-200 text-white font-bold px-3 py-2 rounded-lg cursor-pointer mt-4">About Me</div>
+                <a href="ABOUT">
+                    <div className="bg-blue-200 text-white font-bold px-3 py-2 rounded-lg cursor-pointer mt-4">About Me</div>
+                </a>
             </div>
             <div className="w-[300px] h-[300px] rounded-full" 
             style={{backgroundImage:`url(${hero})`,backgroundPosition:"Center",backgroundSize:"cover"}}></div>
