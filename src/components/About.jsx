@@ -2,13 +2,13 @@ const About=()=>{
     return (
         <div className="w-11/12 max-w-[1150px] text-white mx-auto flex flex-col justify-center items-center mt-[200px] gap-y-20" id="ABOUT">
             <h1 className="text-[40px] font-medium">About Me</h1>
-            <div className="flex gap-x-[10rem] flex-wrap">
+            <div className="flex gap-x-[10rem] flex-wrap gap-y-5">
                 <div className="bg-richblack-900  p-4 pb-9 rounded-lg -rotate-6  ">
                     <div className="bg_shivam w-[300px] h-[400px] rounded-lg "></div>
                 </div>
                 <div className="max-w-[600px]">
                     <p className="font-semibold text-[30px]">Shivam Kumar</p>
-                    <div className="flex text-black font-bold gap-x-6 my-4 cursor-pointer flex-wrap">
+                    <div className="flex text-black font-bold gap-x-6 my-4 cursor-pointer flex-wrap gap-y-4">
                         <p className="bg-yellow-50 px-4 rounded-lg">Frontend</p>
                         <p className="bg-yellow-50 px-4 rounded-lg">BackEnd</p>
                         <p className="bg-yellow-50 px-4 rounded-lg">Full Stack</p>
