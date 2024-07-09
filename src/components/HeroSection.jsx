@@ -30,7 +30,7 @@ const HeroSection = () => {
                         className="text-yellow-50"
                     />
                 </div>
-                <a href="ABOUT">
+                <a href="#ABOUT">
                     <div className="bg-blue-200 text-white font-bold px-3 py-2 rounded-lg cursor-pointer mt-4">About Me</div>
                 </a>
             </div>
