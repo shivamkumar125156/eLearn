@@ -17,7 +17,11 @@ const About=()=>{
                     <p className="text-[20px] font-medium text-richblack-25    ">I learn & build stuff related to Frontend,backend,and Microservices,Generative AI and more..
                     I also have some Experience in Docker ,Redis and WebSockets</p>
                     <div className="bg-blue-200  px-8  py-1 flex justify-center items-center rounded-lg w-[120px] mt-4 font-bold
-                    text-[20px] cursor-pointer">Resume</div>
+                    text-[20px] cursor-pointer">
+                        <a href="https://drive.google.com/file/d/1Xk5zuyNAGo4Ovnb5m2zBn4YW0dc_0QJs/view?usp=sharing" target="_blank">
+                        Resume
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
