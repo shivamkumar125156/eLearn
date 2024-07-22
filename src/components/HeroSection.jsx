@@ -8,6 +8,7 @@ const HeroSection = () => {
             <div className="flex flex-col items-start">
                 <h1 className="text-[30px] font-semibold">Hi!!</h1>
                 <p className="text-[50px] font-bold">I'm Shivam kumar</p>
+                <p className="text-[20px] mb-4">I am final year CSE Student at SASTRA University.<br/>I am a passionate Web Developer</p>
                 <div className="flex items-center gap-x-3">
 
                     <p className="text-[25px] ">I am a</p>
