@@ -18,7 +18,7 @@ const About=()=>{
                     I also have some Experience in Docker ,Redis and WebSockets</p>
                     <div className="bg-blue-200  px-8  py-1 flex justify-center items-center rounded-lg w-[120px] mt-4 font-bold
                     text-[20px] cursor-pointer">
-                        <a href="https://drive.google.com/file/d/1Xk5zuyNAGo4Ovnb5m2zBn4YW0dc_0QJs/view?usp=sharing" target="_blank">
+                        <a href="https://drive.google.com/file/d/1--unrcG4KVBc-by8KU0qiH-LFUI77CCO/view?usp=drive_link" target="_blank">
                         Resume
                         </a>
                     </div>
